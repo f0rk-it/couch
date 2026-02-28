@@ -1,0 +1,11 @@
+.hero h1 {
+    font-family: var(--font-B-black );
+    font-size: 29rem;
+}
+
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
